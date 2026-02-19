@@ -1,4 +1,4 @@
-# AI Chatbot Lab 2
+# AI Chatbot
 
 A simple chatbot application using Google's Gemini 2.5 Flash Lite API.
 
@@ -38,6 +38,8 @@ A simple chatbot application using Google's Gemini 2.5 Flash Lite API.
 4. Install dependencies:
    ```bash
    pip install google-generativeai python-dotenv openai
+   or
+   pip install -r requirements.txt
    ```
 
 ## Configuration
